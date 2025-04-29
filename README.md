@@ -34,25 +34,6 @@ This project includes a **Streamlit backend** (Python) and a **React.js frontend
 | NLP Tools | TextBlob, VADER, Google Translate API, gTTS                                 |
 | Utilities | FFmpeg, youtube-dl / yt-dlp (for video/audio download)                      |
 
----
-
-## 📁 Project Structure
-
-```
-podsynth/
-├── backend/
-│   ├── ready2.py            # Streamlit app (main backend logic)
-│   ├── utils/               # (optional) helper modules (speaker, summarizer, etc.)
-│   ├── requirements.txt     # Python dependencies
-├── frontend/
-│   ├── src/
-│   │   ├── components/       # React components
-│   │   ├── App.jsx
-│   │   ├── main.jsx
-│   ├── public/
-│   ├── package.json         # npm dependencies
-├── README.md
-```
 
 ---
 
